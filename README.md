@@ -23,7 +23,7 @@
 
 ## 📁 Struttura del progetto
 
-''' 📦 progetto/
+ 📦 progetto/
 ┣ 📂 sql/
 ┃ ┣ 📜 00_create_tables.sql         # Crea le tabelle raw di vendita e meteo
 ┃ ┣ 📜 01_create_view_weather.sql   # Crea la vista combinata dei dati meteo
@@ -32,7 +32,7 @@
 ┃ ┣ 📜 04_queries.sql               # Query di analisi avanzate
 ┃ ┗ 📜 README_queries.md            # Spiegazioni dettagliate query 11–19
 ┣ 📜 README.md                      # Questo file
-┗ 📜 schema_diagram.png             # (opzionale) Diagramma ER delle tabelle '''
+┗ 📜 schema_diagram.png             # (opzionale) Diagramma ER delle tabelle 
 
 
 ---
