@@ -23,18 +23,18 @@
 
 ## 📁 Struttura del progetto
 
- 📦 progetto/
-┣ 📂 sql/
-┃ ┣ 📜 00_create_tables.sql         # Crea le tabelle raw di vendita e meteo
-┃ ┣ 📜 01_create_view_weather.sql   # Crea la vista combinata dei dati meteo
-┃ ┣ 📜 02_join_weather_sales.sql    # Join dati meteo e vendite
-┃ ┣ 📜 03_clean_optimized_table.sql # Crea tabella pulita con indici e vincoli
-┃ ┣ 📜 04_queries.sql               # Query di analisi avanzate
-┃ ┗ 📜 README_queries.md            # Spiegazioni dettagliate query 11–19
-┣ 📜 README.md                      # Questo file
-┗ 📜 schema_diagram.png             # (opzionale) Diagramma ER delle tabelle 
-
-
+```
+📦 progetto/
+ ┣ 📂 sql/
+ ┃ ┣ 📜 00_create_tables.sql         # Crea le tabelle raw di vendita e meteo
+ ┃ ┣ 📜 01_create_view_weather.sql   # Crea la vista combinata dei dati meteo
+ ┃ ┣ 📜 02_join_weather_sales.sql    # Join dati meteo e vendite
+ ┃ ┣ 📜 03_clean_optimized_table.sql # Crea tabella pulita con indici e vincoli
+ ┃ ┣ 📜 04_queries.sql               # Query di analisi avanzate
+ ┃ ┗ 📜 README_queries.md            # Spiegazioni dettagliate query 11–19
+ ┣ 📜 README.md                      # Questo file
+ ┗ 📜 schema_diagram.png             # (opzionale) Diagramma ER delle tabelle
+```
 ---
 
 ## 🧭 Step-by-Step – Come esplorare il progetto
